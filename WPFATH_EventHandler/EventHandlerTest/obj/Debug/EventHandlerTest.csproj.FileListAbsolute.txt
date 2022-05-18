@@ -1,0 +1,16 @@
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\bin\Debug\EventHandlerTest.exe.config
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\bin\Debug\EventHandlerTest.exe
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\bin\Debug\EventHandlerTest.pdb
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest.csproj.AssemblyReference.cache
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest.csproj.SuggestedBindingRedirects.cache
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\MainWindow.g.cs
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\App.g.cs
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest_MarkupCompile.cache
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest_MarkupCompile.lref
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\MainWindow.baml
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest.g.resources
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest.Properties.Resources.resources
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest.csproj.GenerateResource.cache
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest.csproj.CoreCompileInputs.cache
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest.exe
+C:\EventHandler_Program\EventHandlerTest\EventHandlerTest\obj\Debug\EventHandlerTest.pdb
