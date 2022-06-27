@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPFMenu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFMenu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition x:Name="AreaNumber1" ></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock TextAlignment="Center" HorizontalAlignment="Center" Margin="10" FontSize="18" FontWeight="Bold" >Menu</TextBlock>
+        <Button x:Name="GenerateNewButton" Padding="20" HorizontalAlignment="Center" VerticalAlignment="Center" Background="Red" FontWeight="Bold" FontSize="18" Click="GenerateNewButton_Click" >GENERATE NEW BUTTON</Button>
+        <GridSplitter HorizontalAlignment="Right" Width="5" Background="blue"></GridSplitter>
+        <UniformGrid x:Name="UniformGrid1" Grid.Column="1" >
+        </UniformGrid>
+    </Grid>
+</Window>
